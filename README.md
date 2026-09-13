@@ -1,7 +1,7 @@
 # LS
 ls rewrite as an excersize inspired by tonybtw's tutorial on C
 
-# Compile
+## Compilation
 
 ``` gcc -Wall -Wextra -o lsbtw ls.c ```
 
